@@ -17,3 +17,9 @@ __pycache__/
 
 # models
 *.pkl
+
+# row data
+*.gz
+
+# processed data
+*.npy
