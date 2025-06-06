@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables file
+.env
+
+# Virtual Environment
+.venv/
+
+# VSCode settings
+.vscode/
+
+# pytest cache
+.cache/
+.pytest_cache/
+
+# models
+.pkl
