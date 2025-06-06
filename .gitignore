@@ -16,4 +16,4 @@ __pycache__/
 .pytest_cache/
 
 # models
-.pkl
+*.pkl
