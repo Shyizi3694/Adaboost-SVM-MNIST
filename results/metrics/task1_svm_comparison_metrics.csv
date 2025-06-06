@@ -1,0 +1,3 @@
+model_name,kernel,best_C,best_gamma,cv_best_score,tuning_time_seconds,final_model_training_time_seconds,test_accuracy,test_f1_micro,test_f1_macro,test_f1_weighted
+Linear SVM (Tuned),linear,0.1,N/A,0.9004635677951628,19.7357,5.3869,0.914,0.914,0.9125132845065871,0.9136948806819042
+RBF SVM (Tuned),rbf,10.0,0.001,0.9285074322219454,167.4493,12.3094,0.9435,0.9435,0.9429116149159953,0.9435540683447784
